@@ -1,6 +1,6 @@
 # Xiaomi Toolkit for Android
 
-Xiaomi Toolkit là ứng dụng hỗ trợ thiết lập và tối ưu điện thoại Xiaomi sử dụng ROM nội địa Trung Quốc (MIUI/HyperOS), hoạt động thông qua Shizuku và không yêu cầu root.
+Xiaomi Toolkit là ứng dụng hỗ trợ thiết lập và tối ưu thông báo trên điện thoại Xiaomi, đặc biệt là máy sử dụng ROM nội địa Trung Quốc (MIUI/HyperOS), hoạt động thông qua Shizuku và không yêu cầu root.
 
 Ứng dụng phù hợp với các máy Xiaomi nội địa cần cài Google Play, xử lý ứng dụng Trung Quốc và cải thiện độ ổn định của thông báo.
 
