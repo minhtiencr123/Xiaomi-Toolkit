@@ -4,6 +4,9 @@ Xiaomi Toolkit là ứng dụng hỗ trợ thiết lập và tối ưu thông b�
 
 Ứng dụng phù hợp với các máy Xiaomi nội địa cần cài Google Play, xử lý ứng dụng Trung Quốc và cải thiện độ ổn định của thông báo.
 
+English summary: Xiaomi Toolkit helps fix notification issues on Xiaomi phones running MIUI/HyperOS using Shizuku, without root.
+
+
 ## Chức năng
 
 ### Setup
