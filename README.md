@@ -1,11 +1,12 @@
-# Xiaomi Toolkit for Android
+# Xiaomi Toolkit GitHub – sửa lỗi thông báo Xiaomi MIUI/HyperOS
 
-Xiaomi Toolkit là ứng dụng hỗ trợ thiết lập và tối ưu thông báo trên điện thoại Xiaomi, đặc biệt là máy sử dụng ROM nội địa Trung Quốc (MIUI/HyperOS), hoạt động thông qua Shizuku và không yêu cầu root.
+**Xiaomi Toolkit GitHub chính thức của minhtiencr123** là ứng dụng Android hỗ trợ thiết lập và tối ưu thông báo trên điện thoại Xiaomi, đặc biệt là máy sử dụng ROM nội địa Trung Quốc (MIUI/HyperOS). Ứng dụng hoạt động thông qua Shizuku và không yêu cầu root.
+
+- [Trang giới thiệu Xiaomi Toolkit](https://minhtiencr123.github.io/)
+- [Tải APK tại GitHub Releases](https://github.com/minhtiencr123/Xiaomi-Toolkit/releases)
+- [Hồ sơ GitHub của minhtiencr123](https://github.com/minhtiencr123)
 
 Ứng dụng phù hợp với các máy Xiaomi nội địa cần cài Google Play, xử lý ứng dụng Trung Quốc và cải thiện độ ổn định của thông báo.
-
-English summary: Xiaomi Toolkit helps fix notification issues on Xiaomi phones running MIUI/HyperOS using Shizuku, without root.
-
 
 ## Chức năng
 
@@ -104,7 +105,7 @@ Chỉ cần:
 
 Nếu chỉ gặp vấn đề thông báo, ưu tiên sử dụng mục **Bảo vệ thông báo**.
 
-Các nút có biểu tượng `i` có phần giải thích chức năng tương ứng.
+Các nút có biểu tượng i có phần giải thích chức năng tương ứng.
 
 ## Yêu cầu
 
