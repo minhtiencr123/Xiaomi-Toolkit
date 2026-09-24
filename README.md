@@ -1,6 +1,6 @@
 # Xiaomi Toolkit GitHub – sửa lỗi thông báo Xiaomi MIUI/HyperOS
 
-**Xiaomi Toolkit GitHub chính thức của minhtiencr123** là bộ công cụ Android chuyên sâu giúp **fix thông báo Xiaomi triệt để**, đặc biệt trên các máy Xiaomi dùng ROM nội địa Trung Quốc (MIUI/HyperOS). Ứng dụng hoạt động qua Shizuku, không cần root và đã được tác giả kiểm thử qua hơn 1.000 trường hợp thực tế trong nhiều cộng đồng Xiaomi.
+**Xiaomi Toolkit GitHub chính thức của minhtiencr123** là bộ công cụ Android chuyên sâu giúp **fix thông báo Xiaomi triệt để**, đặc biệt trên các máy Xiaomi dùng ROM nội địa Trung Quốc (MIUI/HyperOS). Ứng dụng hoạt động qua Shizuku, không cần root và được phát triển, hoàn thiện qua phản hồi thực tế của cộng đồng Xiaomi.
 
 - [Trang giới thiệu Xiaomi Toolkit](https://minhtiencr123.github.io/)
 - [Tải APK tại GitHub Releases](https://github.com/minhtiencr123/Xiaomi-Toolkit/releases)
@@ -16,7 +16,7 @@ Xiaomi Toolkit tập trung xử lý trọn bộ nguyên nhân khiến thông bá
 - Hỗ trợ máy Xiaomi nội địa Trung Quốc, cài Google Play và xử lý các ứng dụng Trung Quốc.
 - Không cần root; các thao tác hệ thống thực hiện qua Shizuku/ADB.
 
-Xiaomi Toolkit được phát triển để mang lại hiệu quả fix thông báo cao và ổn định nhất trong thực tế. Phiên bản hiện tại đã được tác giả kiểm thử qua hơn 1.000 trường hợp trên nhiều nhóm cộng đồng Facebook và tiếp tục được cập nhật.
+Xiaomi Toolkit được phát triển để mang lại hiệu quả fix thông báo cao và ổn định nhất trong thực tế. Dự án tiếp tục được hoàn thiện và cập nhật theo phản hồi thực tế của cộng đồng.
 
 ### Từ khóa liên quan
 
