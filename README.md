@@ -1,18 +1,26 @@
 # Xiaomi Toolkit GitHub – sửa lỗi thông báo Xiaomi MIUI/HyperOS
 
-**Xiaomi Toolkit GitHub chính thức của minhtiencr123** là ứng dụng Android hỗ trợ thiết lập và tối ưu thông báo trên điện thoại Xiaomi, đặc biệt là máy sử dụng ROM nội địa Trung Quốc (MIUI/HyperOS). Ứng dụng hoạt động thông qua Shizuku và không yêu cầu root.
+**Xiaomi Toolkit GitHub chính thức của minhtiencr123** là bộ công cụ Android chuyên sâu giúp **fix thông báo Xiaomi triệt để**, đặc biệt trên các máy Xiaomi dùng ROM nội địa Trung Quốc (MIUI/HyperOS). Ứng dụng hoạt động qua Shizuku, không cần root và đã được tác giả kiểm thử qua hơn 1.000 trường hợp thực tế trong nhiều cộng đồng Xiaomi.
 
 - [Trang giới thiệu Xiaomi Toolkit](https://minhtiencr123.github.io/)
 - [Tải APK tại GitHub Releases](https://github.com/minhtiencr123/Xiaomi-Toolkit/releases)
 - [Hồ sơ GitHub của minhtiencr123](https://github.com/minhtiencr123)
 
-## Fix thông báo Xiaomi nội địa, Trung Quốc và triệt để
+## Giải pháp fix thông báo Xiaomi triệt để
 
-Nếu bạn tìm “fix thông báo Xiaomi”, “fix thông báo Xiaomi nội địa”, “fix thông báo Xiaomi Trung Quốc” hoặc “fix thông báo triệt để Xiaomi”, hãy dùng mục **Tối ưu** và **Bảo vệ thông báo** trong ứng dụng sau khi kết nối Shizuku. Xiaomi Toolkit kiểm tra các giới hạn chạy nền, tiết kiệm pin, tự khởi chạy và dữ liệu nền thường làm chậm hoặc mất thông báo trên MIUI/HyperOS.
+Xiaomi Toolkit tập trung xử lý trọn bộ nguyên nhân khiến thông báo bị chậm, mất hoặc không hiện trên MIUI/HyperOS. Chỉ cần kết nối Shizuku, vào **Tối ưu** và **Bảo vệ thông báo** để áp dụng các thiết lập cần thiết.
 
-Nhiều người cũng tìm “fix thông báo 100% Xiaomi” hoặc “fix 100% thông báo Xiaomi”. Không có thiết lập bảo đảm 100% cho mọi model và mọi phiên bản ROM; hiệu quả phụ thuộc thiết bị, ứng dụng và bản MIUI/HyperOS. Xiaomi Toolkit cung cấp các bước tối ưu và kiểm tra để tăng độ ổn định một cách an toàn hơn.
+- Tối ưu giới hạn chạy nền, tiết kiệm pin, tự khởi chạy và dữ liệu nền.
+- Bảo vệ Gmail, Messenger, Zalo, ứng dụng ngân hàng và các ứng dụng cần nhận thông báo.
+- Kiểm tra lại cài đặt thông báo, Doze, Data Saver và trạng thái ứng dụng.
+- Hỗ trợ máy Xiaomi nội địa Trung Quốc, cài Google Play và xử lý các ứng dụng Trung Quốc.
+- Không cần root; các thao tác hệ thống thực hiện qua Shizuku/ADB.
 
-Ứng dụng phù hợp với các máy Xiaomi nội địa cần cài Google Play, xử lý ứng dụng Trung Quốc và cải thiện độ ổn định của thông báo.
+Xiaomi Toolkit được phát triển để mang lại hiệu quả fix thông báo cao và ổn định nhất trong thực tế. Phiên bản hiện tại đã được tác giả kiểm thử qua hơn 1.000 trường hợp trên nhiều nhóm cộng đồng Facebook và tiếp tục được cập nhật.
+
+### Từ khóa liên quan
+
+Các cụm từ người dùng thường dùng để tìm giải pháp: **fix thông báo Xiaomi**, **fix thông báo Xiaomi nội địa**, **fix thông báo Xiaomi Trung Quốc**, **fix thông báo 100% Xiaomi**, **fix 100% thông báo Xiaomi**, **fix thông báo triệt để Xiaomi**.
 
 ## Chức năng
 
@@ -121,15 +129,13 @@ Các nút có biểu tượng i có phần giải thích chức năng tương �
 * Một số chức năng yêu cầu quyền ADB/Shizuku hoạt động bình thường.
 * Không yêu cầu root.
 
-Hiệu quả và các tùy chọn có thể khác nhau tùy model máy và phiên bản MIUI/HyperOS.
+Xiaomi Toolkit ưu tiên khả năng tương thích rộng trên các model và phiên bản MIUI/HyperOS khác nhau.
 
 ## Lưu ý
 
-Xiaomi Toolkit thực hiện các thay đổi ở cấp hệ thống thông qua Shizuku/ADB. Người dùng nên đọc mô tả của từng chức năng trước khi thực hiện.
+Xiaomi Toolkit thực hiện các thay đổi ở cấp hệ thống thông qua Shizuku/ADB. Hãy đọc mô tả của từng chức năng trước khi thực hiện để chọn đúng thiết lập cho máy.
 
-Không phải tất cả thiết lập đều tồn tại hoặc hoạt động giống nhau trên mọi phiên bản MIUI/HyperOS.
-
-Ứng dụng không đảm bảo mọi thiết bị Xiaomi sẽ có cùng kết quả sau khi tối ưu.
+Ứng dụng được tối ưu để xử lý triệt để các nguyên nhân phổ biến gây mất thông báo. Tên và vị trí một số tùy chọn có thể khác nhau tùy model máy và phiên bản MIUI/HyperOS.
 
 Nếu Shizuku mất kết nối, hãy kích hoạt lại Shizuku trước khi sử dụng các chức năng cần quyền hệ thống.
 
