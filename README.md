@@ -6,6 +6,12 @@
 - [Tải APK tại GitHub Releases](https://github.com/minhtiencr123/Xiaomi-Toolkit/releases)
 - [Hồ sơ GitHub của minhtiencr123](https://github.com/minhtiencr123)
 
+## Fix thông báo Xiaomi nội địa, Trung Quốc và triệt để
+
+Nếu bạn tìm “fix thông báo Xiaomi”, “fix thông báo Xiaomi nội địa”, “fix thông báo Xiaomi Trung Quốc” hoặc “fix thông báo triệt để Xiaomi”, hãy dùng mục **Tối ưu** và **Bảo vệ thông báo** trong ứng dụng sau khi kết nối Shizuku. Xiaomi Toolkit kiểm tra các giới hạn chạy nền, tiết kiệm pin, tự khởi chạy và dữ liệu nền thường làm chậm hoặc mất thông báo trên MIUI/HyperOS.
+
+Nhiều người cũng tìm “fix thông báo 100% Xiaomi” hoặc “fix 100% thông báo Xiaomi”. Không có thiết lập bảo đảm 100% cho mọi model và mọi phiên bản ROM; hiệu quả phụ thuộc thiết bị, ứng dụng và bản MIUI/HyperOS. Xiaomi Toolkit cung cấp các bước tối ưu và kiểm tra để tăng độ ổn định một cách an toàn hơn.
+
 Ứng dụng phù hợp với các máy Xiaomi nội địa cần cài Google Play, xử lý ứng dụng Trung Quốc và cải thiện độ ổn định của thông báo.
 
 ## Chức năng
